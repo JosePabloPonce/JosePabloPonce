@@ -9,7 +9,6 @@
 
 - ⚡ About me: **I like learning and working with web development technologies and databases. In the same way, I like to always be updated with the latest technologies of the moment.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
